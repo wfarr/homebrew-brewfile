@@ -3,6 +3,7 @@ brew "fasd"
 brew "git"
 brew "go"
 brew "hub"
+brew "watch"
 
 cask "google-chrome"
 cask "google-cloud-sdk"
