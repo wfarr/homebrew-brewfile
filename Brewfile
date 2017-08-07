@@ -7,6 +7,7 @@ brew "watch"
 brew "ruby-build"
 brew "chruby"
 brew "yarn"
+brew "heroku"
 
 cask "docker"
 cask "google-chrome"
