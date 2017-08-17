@@ -8,6 +8,7 @@ brew "ruby-build"
 brew "chruby"
 brew "yarn"
 brew "heroku"
+brew "postgresql"
 
 cask "docker"
 cask "google-chrome"
