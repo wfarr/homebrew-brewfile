@@ -1,5 +1,6 @@
-brew "bash-completion"
-brew "fasd"
+# brew "bash-completion"
+# brew "fasd"
+brew "fish"
 brew "git"
 brew "go"
 brew "hub"
@@ -7,7 +8,6 @@ brew "watch"
 brew "ruby-build"
 brew "chruby"
 brew "yarn"
-brew "heroku"
 
 cask "docker"
 cask "google-chrome"
@@ -19,10 +19,11 @@ cask "visual-studio-code"
 #tap "Caskroom/drivers"
 #brew "unifi-controller"
 
+tap "heroku/brew"
+brew "heroku"
+
 mas "1Blocker", id: 1107421413
-mas "Day One", id: 1055511498
-mas "iA Writer", id: 775737590
+mas "1Password", id: 443987910
 mas "OmniGraffle", id: 1142578753
-mas "Password", id: 443987910
 mas "Slack", id: 803453959
-mas "Twitter", id: 409789998
+mas "Things 3", id: 904280696
