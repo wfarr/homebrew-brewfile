@@ -12,6 +12,8 @@ brew "yarn"
 brew "redis"
 brew "postgresql"
 brew "asdf"
+brew "starship"
+brew "nvim"
 
 # gpg / yubi bits
 brew "gnupg"
